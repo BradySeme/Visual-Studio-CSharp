@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1y+eng9YKGHDctK43zcvZZ6Dxzsx3ChKM2xKGrT3EriIllF3SB5yIS5Aa4bGsY4N060pt41JxhkwSNgqT7Rt9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\TheTechAcademy\\Visual Studio C#\\DailyReport\\DailyReport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

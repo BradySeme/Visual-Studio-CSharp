@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XASnjfwZwaFsKhUw8ZEykD2zDhwLXTwO20O3uCFghs5VOHcjrxMHnaEjcUiOZw6TR0Bw1sTIzHbEg1eqTO6ZXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\IncomeComparison\\IncomeComparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

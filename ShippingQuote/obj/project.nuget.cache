@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+2dRmP8tJCLKlvjKFI/3Vj+azMY+2UcG2VpjWl4/FdFThpIbu8ObxCDshaiE5wc36K/jSYxwTCjWPu8/dLTiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\ShippingQuote\\ShippingQuote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YT92sBp1S0iC1Fc/QYWXW4FOI4bt/txMNFCNlEIh2FBpPzXlKQqFKZmnvq4vfCTKK4ahWw29hoJClsyYmvolzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\InsuranceApprovalProgram\\InsuranceApprovalProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

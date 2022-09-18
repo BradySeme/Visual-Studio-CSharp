@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\bin\Debug\netcoreapp3.1\InsuranceApprovalProgram.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\InsuranceApprovalProgram\obj\Debug\netcoreapp3.1\InsuranceApprovalProgram.genruntimeconfig.cache

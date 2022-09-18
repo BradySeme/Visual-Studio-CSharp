@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\bin\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentDoAndDoWhile\obj\Debug\netcoreapp3.1\AssignmentDoAndDoWhile.genruntimeconfig.cache

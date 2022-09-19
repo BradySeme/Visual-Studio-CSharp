@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\bin\Debug\netcoreapp3.1\AssignmentArray.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentArray\obj\Debug\netcoreapp3.1\AssignmentArray.genruntimeconfig.cache

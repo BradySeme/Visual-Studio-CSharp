@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\bin\Debug\netcoreapp3.1\AssignmentSixParts.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\AssignmentSixParts\obj\Debug\netcoreapp3.1\AssignmentSixParts.genruntimeconfig.cache

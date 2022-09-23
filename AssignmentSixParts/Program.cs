@@ -139,24 +139,29 @@ namespace AssignmentSixParts
             strlist2.Add("Saturn");
             strlist2.Add("Christmas");
             strlist2.Add("Apples");
+            List<string> newlist = new List<string>();
 
-            //User input
-            Console.WriteLine("What word are you searching for?");
-            string theword2 = Console.ReadLine();
 
             //A foreach loop
-            //It displays both of the variables as duplicates, I feel like this would meet the requirement but if this wrong, then I can change it
+            //The loop runs through the the list and if there is no duplicates then it adds the name to the new list
             foreach (string name in strlist2)
             {
-                if (name == theword2)
+                
+                if (newlist.Contains(name))
                 {
-                    Console.WriteLine($"{name} is not unique.");
+                    Console.WriteLine($"{name} is a duplicate");
+                    
                 }
 
                 else
                 {
-                    Console.WriteLine($"{name} is unique.");
+                    Console.WriteLine($"{name} is unique");
+                    newlist.Add(name);
+                    
                 }
+
+            
+
             }
 
 

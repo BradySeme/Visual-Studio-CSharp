@@ -15,11 +15,11 @@ namespace DailyReport
 
             //Course input here
             Console.WriteLine("What course are you on?");
-            string coursenum = Console.ReadLine();
+            int coursenum = Convert.ToInt32(Console.ReadLine());
 
             //Page input here
             Console.WriteLine("What page number?");
-            string pagenum = Console.ReadLine();
+            int pagenum = Convert.ToInt32(Console.ReadLine());
 
             //Help input here
             Console.WriteLine("Do you need help with anything?");
@@ -36,7 +36,7 @@ namespace DailyReport
 
             //Hour input here
             Console.WriteLine("How many hours did you study today?");
-            string hournum = Console.ReadLine();
+            int hournum = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
         }

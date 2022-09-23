@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semeb\\OneDrive\\Desktop\\TheTechAcademy\\Visual Studio C#\\DailyReport\\DailyReport.csproj",
+      "projectUniqueName": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\DailyReport\\DailyReport.csproj",
       "projectName": "DailyReport",
-      "projectPath": "C:\\Users\\semeb\\OneDrive\\Desktop\\TheTechAcademy\\Visual Studio C#\\DailyReport\\DailyReport.csproj",
+      "projectPath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\DailyReport\\DailyReport.csproj",
       "packagesPath": "C:\\Users\\semeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semeb\\OneDrive\\Desktop\\TheTechAcademy\\Visual Studio C#\\DailyReport\\obj\\",
+      "outputPath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\DailyReport\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

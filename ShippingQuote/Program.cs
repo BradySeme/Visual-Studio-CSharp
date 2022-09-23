@@ -25,7 +25,7 @@ namespace ShippingQuote
                 if (pkqdimensions <= 50)
                 {
 
-                    int total = ((pkqheight * pkqlength * pkqwidth) * pkqweight) / 100;
+                    decimal total = ((Convert.ToDecimal(pkqheight) * Convert.ToDecimal(pkqlength) * Convert.ToDecimal(pkqwidth)) * Convert.ToDecimal(pkqweight)) / 100;
                     Console.WriteLine($"Your estimated total for shipping this package is: {total.ToString("C")} \nThank you!");
                 }
 

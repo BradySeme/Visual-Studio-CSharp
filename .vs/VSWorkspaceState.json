@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DailyReport"
   ],
-  "SelectedNode": "\\ShippingQuote.sln",
+  "SelectedNode": "\\DailyReport\\DailyReport.sln",
   "PreviewInSolutionExplorer": false
 }

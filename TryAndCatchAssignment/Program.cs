@@ -21,8 +21,8 @@ namespace TryAndCatchAssignment
                 int input = int.Parse(Console.ReadLine());
                 for (int i = 0; i < listint.Count; i++)
                 {
-                    decimal answer = Convert.ToDecimal(input) / Convert.ToDecimal(listint[i]);
-                    Console.WriteLine($"{input} divided by {listint[i]} equals {answer}"); 
+                    decimal answer = Convert.ToDecimal(listint[i]) / Convert.ToDecimal(input);
+                    Console.WriteLine($"{listint[i]} divided by {input} equals {answer}"); 
                 }
             }
 

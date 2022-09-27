@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\bin\Debug\netcoreapp3.1\TryAndCatchAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\TryAndCatchAssignment\obj\Debug\netcoreapp3.1\TryAndCatchAssignment.genruntimeconfig.cache

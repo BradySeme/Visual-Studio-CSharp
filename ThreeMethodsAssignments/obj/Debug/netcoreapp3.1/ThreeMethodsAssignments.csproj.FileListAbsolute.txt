@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\bin\Debug\netcoreapp3.1\ThreeMethodsAssignments.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ThreeMethodsAssignments\obj\Debug\netcoreapp3.1\ThreeMethodsAssignments.genruntimeconfig.cache

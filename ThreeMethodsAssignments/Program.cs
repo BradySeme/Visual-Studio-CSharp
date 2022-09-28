@@ -6,15 +6,16 @@ namespace ThreeMethodsAssignments
     {
         static void Main(string[] args)
         {
+            MathMethods mm = new MathMethods();
             //User input
             Console.Write("Enter a number: \n");
-            int answer = int.Parse(Console.ReadLine());
+            int input = int.Parse(Console.ReadLine());
 
             //This is calling each of the methods
-            MathMethods.Plus(answer);
-            MathMethods.Minus(answer);
-            MathMethods.Multiply(answer);
-            
+            Console.WriteLine($"{input} + 4 = {mm.Plus(input)}");
+            Console.WriteLine($"{input} - 4 = {mm.Minus(input)}");
+            Console.WriteLine($"{input} x 4 = {mm.Multiply(input)}");
+
         }
     }
 }

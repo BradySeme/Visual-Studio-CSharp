@@ -7,24 +7,24 @@ namespace ThreeMethodsAssignments
     class MathMethods
     {
         //This is the methods that adds the input by 4
-        public static void Plus(int input)
+        public int Plus(int input)
         {
             int answer = input + 4;
-            Console.WriteLine($"{input} + 4 = {answer}");
+            return answer;
         }
 
         //This is the methods that subtracts the input by 4
-        public static void Minus(int input)
+        public int Minus(int input)
         {
             int answer = input - 4;
-            Console.WriteLine($"{input} - 4 = {answer}");
+            return answer;
         }
 
         //This is the methods that multiplies the input by 4
-        public static void Multiply(int input)
+        public int Multiply(int input)
         {
             int answer = input * 4;
-            Console.WriteLine($"{input} x 4 = {answer}");
+            return answer;
         }
     }
 }

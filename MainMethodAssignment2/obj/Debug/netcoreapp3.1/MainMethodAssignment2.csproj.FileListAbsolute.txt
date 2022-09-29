@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\bin\Debug\netcoreapp3.1\MainMethodAssignment2.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssignment2\obj\Debug\netcoreapp3.1\MainMethodAssignment2.genruntimeconfig.cache

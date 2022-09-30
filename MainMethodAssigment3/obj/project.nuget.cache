@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lJriw2LtGIdRY+Rst0/Zat0r8BNYG8A9524ncQ9iPTnNl8AfIlv8VGLiCIlommQdvSlnhSQniDPBIBEb8W1IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\MainMethodAssigment3\\MainMethodAssigment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

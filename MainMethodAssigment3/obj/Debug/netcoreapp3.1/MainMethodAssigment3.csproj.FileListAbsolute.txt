@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\bin\Debug\netcoreapp3.1\MainMethodAssigment3.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MainMethodAssigment3\obj\Debug\netcoreapp3.1\MainMethodAssigment3.genruntimeconfig.cache

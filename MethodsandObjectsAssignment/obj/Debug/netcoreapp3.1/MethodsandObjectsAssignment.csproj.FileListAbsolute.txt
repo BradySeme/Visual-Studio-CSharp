@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsandObjectsAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\MethodsandObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsandObjectsAssignment.genruntimeconfig.cache

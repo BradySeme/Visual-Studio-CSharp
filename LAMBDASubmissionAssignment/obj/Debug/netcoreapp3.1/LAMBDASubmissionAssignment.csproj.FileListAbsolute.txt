@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\bin\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\LAMBDASubmissionAssignment\obj\Debug\netcoreapp3.1\LAMBDASubmissionAssignment.genruntimeconfig.cache

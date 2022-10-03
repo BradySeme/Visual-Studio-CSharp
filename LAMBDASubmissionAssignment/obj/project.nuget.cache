@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZylQ+D3TZnJGM3csfuIlj5qGkcTrZTPA+V54yoJFHxDTIkktylS5D9REcj3D8nrx1j62hn25+ty6alIYCJelEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\LAMBDASubmissionAssignment\\LAMBDASubmissionAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

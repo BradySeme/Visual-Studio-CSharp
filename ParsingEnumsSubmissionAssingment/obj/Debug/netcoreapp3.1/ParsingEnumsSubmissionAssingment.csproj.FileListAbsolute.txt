@@ -1,0 +1,14 @@
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.exe
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.deps.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.runtimeconfig.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.runtimeconfig.dev.json
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.csproj.AssemblyReference.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.AssemblyInfoInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.AssemblyInfo.cs
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.csproj.CoreCompileInputs.cache
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.dll
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.pdb
+C:\Users\semeb\OneDrive\Desktop\Visual-Studio-CSharp\ParsingEnumsSubmissionAssingment\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssingment.genruntimeconfig.cache

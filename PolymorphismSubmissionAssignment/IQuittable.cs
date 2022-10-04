@@ -9,8 +9,7 @@ namespace PolymorphismSubmissionAssignment
         //"Create an interface called IQuittable and have it define a void method called Quit()."
         void Quit()
         {
-            Console.WriteLine("Press a key to exit...");
-            Console.ReadKey();
+
         }
     }
 }

@@ -11,9 +11,7 @@ namespace AbstractClassAssignment
         public string LastName { get; set; }
 
         //"Give it the method SayName()."
-        public void SayName()
-        {
-            Console.WriteLine(FirstName + LastName);
-        }
+        public abstract void SayName();
+ 
     }
 }

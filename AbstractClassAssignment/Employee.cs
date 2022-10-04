@@ -8,6 +8,9 @@ namespace AbstractClassAssignment
     //"Implement the SayName() method inside of the Employee class."
     public class Employee : Person
     {
-        
+        public override void SayName()
+        {
+            Console.WriteLine(FirstName + LastName);
+        }
     }
 }

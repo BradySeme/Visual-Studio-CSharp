@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObZu+OlkIEA/+B97w+yIcx16ufiV1j6LgSmPgcNLRre3X19QQEaPoBRtaG356Ztc/zeIIzYUyf2eeahszfEecA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\DateTimeAssignment\\DateTimeAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

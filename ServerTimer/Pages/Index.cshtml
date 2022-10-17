@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    var time = DateTime.Now.TimeOfDay;
+}
+
+
+
+<div class="text-center">
+    <h2 class="display-4">Welcome, the time is</h2>
+    <p class="display-4">@time</p>
+</div>

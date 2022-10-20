@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCPDIACmy5MccobA/RpT0i8MR7yxUqZkftpIvObEKLHXZQiq1kStH5Br7VKN+UK5rkFqraayvF8O3nxbF8emNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semeb\\OneDrive\\Desktop\\Visual-Studio-CSharp\\ServerTimer\\ServerTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
